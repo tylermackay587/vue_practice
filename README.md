@@ -1,2 +1,2 @@
-# vue_tutorial
+# vue_practice
 Getting practice with vue
